@@ -1,0 +1,27 @@
+#s1{
+    background-image: url(../images/Banner\ Image.png );
+      background-image: linear-gradient(#070211 #070211 40%);  
+    background-size: cover;
+    background-position-y: center;
+    height: 800px;
+    
+    border-radius: 16px;
+    /* margin: 50px auto; */
+    background-repeat: no-repeat; 
+}
+
+#first-flex{
+
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+ 
+
+}
+#second-div{
+    text-align: center;
+   
+}
